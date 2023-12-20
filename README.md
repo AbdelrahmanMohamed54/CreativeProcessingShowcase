@@ -59,7 +59,6 @@ This repository contains Processing sketches and projects completed as part of m
   - **Physics:** Apply physically correct bouncing, current speed, and acceleration to the circle.
   - **Randomization:** Modify acceleration randomly over time, ensuring a challenging yet beatable game.
   - **Graphics:** Utilize extremely simple graphics while showcasing the effective use of variables and control structures.
-  - **Time Commitment:** Aim for 2-3 hours of readings and video, and around 4 hours of programming over a 2-week period.
 
 ---
 
@@ -80,8 +79,6 @@ This repository contains Processing sketches and projects completed as part of m
   Create a Processing sketch for a resettable explosion.
   - **Drawing Area:** Shapes leave the drawing area eventually.
   - **Reset Feature:** On a subsequent mouse click, reset the explosion, making all visible shapes vanish and restarting the process.
-  - **Naming Convention:** Rename the sketch as `task_5_explosion.pde` and the image as `task_5_explosion.tif`.
-  - **Submission Deadline:** Due by Tuesday, 2022-11-23, 23:00, with mandatory participation.
 
 ---
 
@@ -100,7 +97,7 @@ This repository contains Processing sketches and projects completed as part of m
   Demonstrate an in-depth understanding of recursion by drawing a creative and unique figure, avoiding commonly known recursive drawings.
   - **Parameters:** Include at least 2 parameters influenced by mouse movement in x and y directions.
   - **Complexity:** Utilize vector computations or other interesting elements, surpassing the simplicity of typical recursive circle examples.
-  - **Submission:** This was the task i did and it's availab;e in the repository.
+  - **Submission:** This was the task i did and it's available in the repository.
 
 ---
 
