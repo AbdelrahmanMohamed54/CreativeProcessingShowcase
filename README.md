@@ -91,7 +91,7 @@ This repository contains Processing sketches and projects completed as part of m
   Demonstrate an in-depth understanding of recursion by drawing a creative and unique figure, avoiding commonly known recursive drawings.
   - **Parameters:** Include at least 2 parameters influenced by mouse movement in x and y directions.
   - **Complexity:** Utilize vector computations or other interesting elements, surpassing the simplicity of typical recursive circle examples.
-  - **Submission:** This was the task i did and it's available in the repository under the name task_6_recursion.pde .
+  - **Submission:** This was the task i did and it's available in the repository under the name "task_6_recursion.pde" .
 
 ---
 
