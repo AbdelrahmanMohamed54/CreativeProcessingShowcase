@@ -49,6 +49,7 @@ This repository contains Processing sketches and projects completed as part of m
   - **Motion Continuity:** Ensure the object reappears from the opposite side when it leaves the drawing area.
   - **Commenting:** Clearly comment your sketch following the provided guidelines.
   - **Frame Storage:** Save two frames of your animation as images.
+  - **This exercise have not been published yet in the repository**
 
 ---
 
