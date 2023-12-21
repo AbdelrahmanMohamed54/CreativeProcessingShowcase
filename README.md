@@ -70,19 +70,12 @@ This repository contains Processing sketches and projects completed as part of m
   - **User Interaction:** On mouse click, generate multiple shapes (circles, for example) at the mouse tip, flying in random directions and gradually getting smaller.
   - **Dynamic Interaction:** While the mouse is pressed, continuously reduce the size of the shapes with each frame.
   - **Capture Moment:** Save a screenshot upon mouse release.
-  - **Submission:** Mandatory exercise with specified naming conventions.
-
----
-
-### 6. Resettable Explosion
-- **Exercise 6:**
-  Create a Processing sketch for a resettable explosion.
   - **Drawing Area:** Shapes leave the drawing area eventually.
   - **Reset Feature:** On a subsequent mouse click, reset the explosion, making all visible shapes vanish and restarting the process.
 
 ---
 
-### 7. Recursive Sketch
+### 6. Recursive Sketch
 - **Exercise 7:**
   Design a Processing sketch utilizing recursion.
   - **Drawing Area:** Sized at 640x480px.
@@ -92,7 +85,7 @@ This repository contains Processing sketches and projects completed as part of m
 
 ---
 
-### 8. Creative Recursion
+### 7. Creative Recursion
 - **Exercise 8 (Variant 1):**
   Demonstrate an in-depth understanding of recursion by drawing a creative and unique figure, avoiding commonly known recursive drawings.
   - **Parameters:** Include at least 2 parameters influenced by mouse movement in x and y directions.
@@ -101,14 +94,14 @@ This repository contains Processing sketches and projects completed as part of m
 
 ---
 
-### 9. Snowflake Recursion
+### 8. Snowflake Recursion
 - **Exercise 8 (Variant 2):**
   Create a Processing sketch that draws a snowflake growing from the center of the frame using recursive triangles or your variant.
   - **Parameters:** Incorporate at least 2 parameters influenced by mouse movement in x and y directions.
 
 ---
 
-### 10. Altered Recursive Tree
+### 9. Altered Recursive Tree
 - **Exercise 8 (Variant 3):**
   Adapt the recursive tree example by implementing specific modifications and additional tasks.
   - **Branching Chance:** Introduce a random chance for more than 2 branches.
